@@ -2,7 +2,7 @@
 
 **`Analytics | Data Visualization | Python | SQL`**
 
-Me Lavínia Oliveira, tenho 19 anos e sou estudante do 3º semestre de Ciências de Dados e Inteligência Artificial na PUC-Campinas. 
+Me chamo Lavínia Oliveira, tenho 19 anos e sou estudante do 3º semestre de Ciências de Dados e Inteligência Artificial na PUC-Campinas. 
 
 Concluí o ensino médio na EtecVAV, com curso técnico em Desenvolvimento de Sistemas, onde adquiri uma base sólida em programação e lógica computacional. Tenho experiência em projetos acadêmicos envolvendo tratamento, organização e interpretação de dados, com interesse em apoiar processos de tomada de decisão e atividades administrativas. 
   
